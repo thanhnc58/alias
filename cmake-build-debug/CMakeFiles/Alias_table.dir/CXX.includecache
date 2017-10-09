@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thanh_nc/CLionProjects/Alias_table/main.cpp
+iostream
+-
+xorshift.h
+/Users/thanh_nc/CLionProjects/Alias_table/xorshift.h
+random
+-
+algorithm
+-
+
+/Users/thanh_nc/CLionProjects/Alias_table/xorshift.cpp
+xorshift.h
+/Users/thanh_nc/CLionProjects/Alias_table/xorshift.h
+iostream
+-
+
+/Users/thanh_nc/CLionProjects/Alias_table/xorshift.h
+stdint.h
+-
+vector
+-
+

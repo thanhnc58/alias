@@ -1,0 +1,3 @@
+/Users/thanh_nc/CLionProjects/Alias_table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/thanh_nc/CLionProjects/Alias_table/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thanh_nc/CLionProjects/Alias_table/cmake-build-debug/CMakeFiles/Alias_table.dir
